@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zhuohang Cui
+- 👋 Hi, I’m @Zhuohang Cui（崔卓航）
 - 👀 I’m interested in Operations and Marketing interface research, playing basketball and listening to folk music.
 - 🌱 I’m currently learning programming, mathematical modelling and some creative projects I've never tried before.
 - 💞️ I’m looking to collaborate on some fun and clever guys.
